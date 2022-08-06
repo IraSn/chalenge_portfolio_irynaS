@@ -1,6 +1,6 @@
 # framework_test
 Task 1: Software configuration.
-Subtask 1: Whu did I choose to participate in a challenge portfolio? 
+Subtask 1: Why did I choose to participate in a challenge portfolio? 
 Hello my name is Iryna. 
 Recently the lives of all Ukrainians changed.
 And I decided that need to change my life and my job too.
